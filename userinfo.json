@@ -1,7 +1,7 @@
 [
   {
     "user_info": {
-      "name": "John H",
+      "name": "John Hrrtyy",
       "position": "frontend developer, QA-engineer",
       "age": "23",
       "contact_number": "8 (234) 456-33-33",
@@ -19,6 +19,11 @@
           "name": "Twitter",
           "url": "https://twitter.com",
           "icon": "fa fa-twitter-square"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://linkedin.com",
+          "icon": "fa fa-linkedin-square"
         },
         {
           "name": "LinkedIn",
