@@ -1,12 +1,12 @@
 [
   {
     "user_info": {
-      "name": "John Hrrtyy",
-      "position": "frontend developer, QA-engineer",
+      "name": "Niloy Das",
+      "position": "Graduate Research Assistant, University of Nevada, Las Vegas",
       "age": "23",
-      "contact_number": "8 (234) 456-33-33",
-      "email": "mail@mail.com",
-      "address": "Melbourne Victoria 3000 Australia",
+      "contact_number": "01811688197",
+      "email": "niloydaskuet@mail.com",
+      "address": "Dhaka, Bangladesh",
       "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
       "background_image": "https://niloy-d.github.io/website_api/3840x2160-minimal-sunset-landscape_1575662668.jpg",
       "socialLinks": [
